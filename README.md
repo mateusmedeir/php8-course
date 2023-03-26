@@ -1,4 +1,4 @@
-<h1 align="center">PHP 8 Course - Hcode</h1>
+<h1 align="center">PHP 8 - Hcode</h1>
 <p align="center">My PHP 8 course repository</p1>
 
 ## 📑 About
