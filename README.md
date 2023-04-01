@@ -2,12 +2,11 @@
 <p align="center">My PHP 8 course repository</p1>
 
 <h3 align="center">
-  <a href="#1-about">About</a>
-  <span> . </span>
-  <a href="#2-fundamentals">Fundamentals</a>
-  <span> . </span>
-  <a href="#3-operators">Operators</a>
-  <span> . </span>
+  <a href="#-about">About</a>
+  <span> · </span>
+  <a href="#fundamentals">Fundamentals</a>
+  <span> · </span>
+  <a href="#operators">Operators</a>
 </h3>
 
 ## 📑 About
