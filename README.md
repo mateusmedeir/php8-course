@@ -1,6 +1,13 @@
 <h1 align="center">PHP 8 - Hcode</h1>
 <p align="center">My PHP 8 course repository</p1>
 
+<h3 align="center">
+  <a href="#-about">About</a>
+  <a href="#-fundamentals">Fundamentals</a>
+  <a href="#-operators">Operators</a>
+  <span> . </span>
+</h3>
+
 ## 📑 About
 ---
 >This repository has all my practices from the course I took on php 8 from Hcode.
