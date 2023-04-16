@@ -22,7 +22,7 @@ Name | Description
 [comments](/fundamentals/comments.php)               | how to make comments in code
 [variables](/fundamentals/variables.php)             | how to create and use variables
 [constants](/fundamentals/constants.php)             | how to create and use constants
-[data_types](/fundamentals/data-types.php)           | knowing the data types in php, for example: integer, boolean, array, mixed and etc
+[data_types](/fundamentals/data-types.php)           | knowing the data types in php, for example: integer, boolean, array, mixed and others
 [type_convertion](/fundamentals/type-convertion.php) | how to convert the type of a variable
 [references](/fundamentals/references.php)           | knowing the three types of reference usage: assignment by reference, parameter passing by reference and return by reference
 [scope](/fundamentals/scope.php)                     | knowing the types of scope: global and local
